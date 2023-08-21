@@ -49,7 +49,7 @@ I am a creative🎡, time punctual🕒, dedicated🎯, goal-oriented✔️, indi
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-    <a href="#"><img alt="Neo4j" src ="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white"></a>
+    <a href="#"><img alt="Neo4j" src ="https://img.shields.io/badge/Neo4j-018bff?logo=neo4j&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
