@@ -1,3 +1,7 @@
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Nelson"> I'm <a href="https://github.com/nelsonmurua913/" color="white" target="_blank">Nelson</a></h1>
+ 
+<hr/>
+
 <samp>
 I am a creative🎡, time punctual🕒, dedicated🎯, goal-oriented✔️, individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills👐, strong organizational skills👮‍, and meticulous attention to detail.
 </samp>
