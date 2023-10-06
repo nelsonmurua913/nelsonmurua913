@@ -7,7 +7,7 @@ I am a creative🎡, time punctual🕒, dedicated🎯, goal-oriented✔️, indi
 ## 🔥 Streak Stats
 
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=CyberpunkGru&theme=tokyonight_duo&hide_border=true" alt="CyberpunkGru" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nelsonmurua913&theme=tokyonight_duo&hide_border=true" alt="nelsonmurua913" />
   <p align="center"> All day I dream about code 🔥 </p>
 </p>
 
